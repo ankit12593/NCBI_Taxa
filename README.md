@@ -19,6 +19,7 @@ Species: 20367
 
 
 ===MapSeq Command-line===\
+One can utilize the Mapseq tool to assign taxonomies to query sequences\
 #Link to mapseq tool\
 https://github.com/jfmrod/mapseq
 
