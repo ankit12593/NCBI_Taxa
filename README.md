@@ -22,7 +22,7 @@ Species: 20367
 #Link to mapseq tool\
 https://github.com/jfmrod/mapseq
 
-#Download files from the MapSeq folder and run on your query sequences
+#Download Mapseq files and run on your query sequences
 
 ./mapseq querySeqs.fasta 16S_rRNA_Seqs.fasta customTaxa_NCBI_24.tax > output.mseq --outfmt simple
 
