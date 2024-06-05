@@ -5,7 +5,7 @@ NCBI Taxonomy Version: June 2024
 
 ===Data Summary===
 
-Total number of 16S rRNA sequences: 27136 (file: 16S_rRNA_Seqs.fasta)\
+Total number of 16S rRNA sequences: 27136 (file: 16S_rRNA_Seqs.rar)\
 Seqs from kingdom Bacteria: 25996\
 Seqs from kingdom Archea: 1140\
 Taxa Level Count\
