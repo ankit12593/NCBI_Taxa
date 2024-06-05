@@ -23,9 +23,9 @@ Species: 20367
 https://github.com/jfmrod/mapseq
 
 #Download Mapseq files and run on your query sequences
-
+```
 ./mapseq querySeqs.fasta 16S_rRNA_Seqs.fasta customTaxa_NCBI_24.tax > output.mseq --outfmt simple
-
+```
 
 Taxa ID mapped to lineages in file all.lineages.txt
 
