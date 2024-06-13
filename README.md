@@ -28,7 +28,7 @@ https://github.com/jfmrod/mapseq
 ./mapseq querySeqs.fasta 16S_rRNA_Seqs.fasta customTaxa_NCBI_24.tax > output.mseq --outfmt simple
 ```
 
-Taxa ID mapped to lineages in file all.lineages.txt
+Taxa ID mapped to lineages in file all_lineages.txt
 
 File NCBI_updatedTaxa.xlsx contains\
 Sheet1: 16S rRNA sequence IDs mapped to taxa IDs (NCBI)\
